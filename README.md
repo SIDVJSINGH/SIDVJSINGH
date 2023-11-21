@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SIDVJSINGH
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning web developing
+- 🌱 I’m currently learning Cloud and DevOps
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me sidvjsingh@gmail.com
 
