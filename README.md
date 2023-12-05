@@ -47,7 +47,7 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories a
 <!---
 SIDVJSINGH/SIDVJSINGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 ## Coding Practice Handles: 
 <a href="https://leetcode.com/uzumaki1970/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="sidvjsingh" height="40"/>
@@ -108,3 +108,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/sidvjsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidvjsingh" height="30" width="40" />
 </a>
 </p>
+--->
